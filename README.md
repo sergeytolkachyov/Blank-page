@@ -1,15 +1,13 @@
 # Blank-page
 
-![Version](https://img.shields.io/badge/version-1.0.5-28A5F5.svg?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/last_update-2022.04.21-28A5F5.svg?style=for-the-badge)
-![Joomla](https://img.shields.io/badge/joomla-3.8+-1A3867.svg?style=for-the-badge)
-![Php](https://img.shields.io/badge/php-5.6+-8892BF.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-2.0.0-28A5F5.svg?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/last_update-2023.11.06-28A5F5.svg?style=for-the-badge)
+![Joomla](https://img.shields.io/badge/joomla-4.0+-1A3867.svg?style=for-the-badge)
+![Php](https://img.shields.io/badge/php-7.4+-8892BF.svg?style=for-the-badge)
 
 [![JED](https://img.shields.io/badge/-This_is_an_extension_in_JED-1b63a2.svg?style=for-the-badge)](https://extensions.joomla.org/extensions/extension/style-a-design/page-background/blank-page/)
 
 ### EN:
-
-IMPORTANT! Release 1.0.5 is final, further support of this extension is not planned.
 
 ### All that this component does is display a blank page on the site that is attached to a menu item.
 
