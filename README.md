@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-2.0.0-28A5F5.svg?style=for-the-badge)
 ![Last Update](https://img.shields.io/badge/last_update-2023.11.06-28A5F5.svg?style=for-the-badge)
-![Joomla](https://img.shields.io/badge/joomla-4.3+-1A3867.svg?style=for-the-badge)
+![Joomla](https://img.shields.io/badge/joomla-4.1+-1A3867.svg?style=for-the-badge)
 ![Php](https://img.shields.io/badge/php-7.4+-8892BF.svg?style=for-the-badge)
 
 [![JED](https://img.shields.io/badge/-This_is_an_extension_in_JED-1b63a2.svg?style=for-the-badge)](https://extensions.joomla.org/extensions/extension/style-a-design/page-background/blank-page/)
