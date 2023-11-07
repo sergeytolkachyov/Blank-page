@@ -34,4 +34,8 @@
             <language tag="ru-RU">language/ru-RU/com_blank.sys.ini</language>
         </languages>
     </administration>
+    <updateservers>
+        <server type="extension" priority="1" name="WebTolk - Blank page updates">https://web-tolk.ru/component/swjprojects/jupdate?element=com_blank</server>
+    </updateservers>
+    <changelogurl>https://web-tolk.ru/jchangelog?element=com_blank</changelogurl>
 </extension>
